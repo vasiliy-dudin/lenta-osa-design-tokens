@@ -1,4 +1,4 @@
-# Lenta OSA Design Tokens
+# Lenta's OmiSupportAdmin Design Tokens
 
 This project contains design tokens for export to Figma Variables using the Luckino - Variables Import/Export JSON & CSS plugin.
 
