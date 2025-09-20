@@ -1,0 +1,11 @@
+{
+  "name": "lenta-osa-design-tokens",
+  "version": "1.0.0",
+  "description": "Design tokens for Lenta OSA design system",
+  "main": "index.js",
+  "scripts": {
+    "build": "node merge-tokens.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
